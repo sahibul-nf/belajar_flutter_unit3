@@ -6,3 +6,4 @@ Selasa, 21 Maret 2023
 - Muhammad Fairuza
 - Ghina Shaffitri 200705011
 - Tara Zaskia Thamrin 200705014
+- feri saputra

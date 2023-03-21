@@ -7,3 +7,4 @@ Selasa, 21 Maret 2023
 - Ghina Shaffitri 200705011
 - Tara Zaskia Thamrin 200705014
 - feri saputra
+- Said Farhan

@@ -10,3 +10,4 @@ Selasa, 21 Maret 2023
 - Said Farhan
 - Rahmad rizky
 - Indah Putri Ningsih
+- Syaukas Rahmatillah

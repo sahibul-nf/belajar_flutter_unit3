@@ -11,3 +11,4 @@ Selasa, 21 Maret 2023
 - Rahmad rizky
 - Indah Putri Ningsih
 - Syaukas Rahmatillah
+- Melinda Sari (200705004)
